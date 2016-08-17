@@ -1,0 +1,44 @@
+main {
+	font-size: 0;
+}
+
+.parent_box {
+	margin-top: 100px;
+	margin-right: auto;
+	margin-left: auto;
+	width: 800px;
+}
+
+.box {
+	border: 1px black;
+	display: inline-block;
+}
+
+.box_top {
+	height: 200px;
+	width: 50%;
+}
+.green{
+	background-color: green;
+}
+.blue {
+	background-color: blue;
+}
+
+.box_bottom {
+	height: 300px;
+	width:33.33%;
+}
+.grey {
+	background-color: grey;
+}
+.black {
+	background-color: black;
+}
+.orange {
+	background-color: orange;
+}
+
+.center {
+	text-align: center;
+}
